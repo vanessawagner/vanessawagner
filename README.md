@@ -1,6 +1,6 @@
 ### Mabuhay! Welcome! 👋 
 
-My name is Vanessa. I am an aspiring Full Stack Software Engineer based in New Orleans, LA with a BS in Chemical Engineering from the Colorado School of Mines. I have more than 5 years of experience in operations and project engineering. I love using creativity to solve tough problems. I am currently employed Shell Oil Company. 
+My name is Vanessa. I am a Software Engineering student at Flatiron School based in New Orleans, LA with a BS in Chemical Engineering from the Colorado School of Mines. I have more than 5 years of experience in operations and engineering and am always looking for ways to power my work through digitalization. I love using creativity to solve tough problems. 
 
 - 😄 Pronouns: she/her
 - 🌱 I’m currently learning JavaScript, React, and Monkey C.
